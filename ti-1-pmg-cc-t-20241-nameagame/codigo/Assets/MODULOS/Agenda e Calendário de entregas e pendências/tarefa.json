@@ -1,0 +1,72 @@
+{
+    "Trabalho": [
+        {
+            "id": "",
+            "foto": "",
+            "Nome": "",
+            "Área_de_atuação": [ "", "" ]
+        }, 
+        {
+    "Calendário": [ 
+        {
+            "Nome da Tarefa": "",
+            "Descrição da Tarefa": "",
+            "Data": "",
+            "Feito": "",
+            "Cor": ""
+        }
+    ],
+
+    "Tarefas": [ 
+        {
+            "Nome da Tarefa": "",
+            "Descrição da Tarefa": "",
+            "Data": "",
+            "Feito": "",
+            "Cor": ""
+        }
+    ],
+    "Arquivos": [
+        {
+            "Nome": "",
+            "Lugar": "",
+            "Conteúdo": ""
+        }
+    ],
+    "Chat": [
+        {
+            "Backlog": "" ,
+            "Visualizações": "",
+            "Curtidas": "",
+            "Não-quero-ver": ""
+        }
+    ],
+    "Plataformas": [
+        {
+            "id": "",
+            "Logo": "",
+            "Não-quero-ver": "",
+            "Link": ""
+        }
+    ],
+    "Integrantes": [
+        {
+            "id": "",
+            "nome": ""
+        }
+    ],
+    "Solicitados": [
+        {
+            "id": "",
+            "nome": "",
+            "Status": ""
+        }
+    ],
+    "Pesquisa": [ 
+        {  "id": "",
+        "pesquisar": "",
+        "titulo": ""                                                                                                    }
+    ]
+  }
+ ]
+}
