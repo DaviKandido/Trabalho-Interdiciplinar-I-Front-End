@@ -20,82 +20,81 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 
 ## Problema
 
-O problema encontrado pela nossa equipe foram primáriamente dois: A dificuldade de se achar o jogo ideal a ser jogado e o tempo que é gasto para acha-lo. Tal problema é voltado ao consumidor de jogos eletrônicos, abrangindo um diverso grupo de pessoas, e ,portanto, a aplicação será no uso doméstico do site.
+O problema em questão envolve a dificuldade de formações de grupos para o desenvolvimento de trabalhos universitarios, sejá em sua montagem ou na busca de integrantes para os desenvolve-los.
 
 ## Objetivos
 
-O objetivo do projeto é criar um software capaz de apresentar um jogo ideal para a pessoa de maneira rápida e eficiente, de acordo com as vontades do momento e suas preferências pré estabelecidas.
-Além disso, parte como objetivo específico do projeto auxiliar os consumidores a acharem o melhor preço dos jogos ideias, como também mostrar outras opções baseadas em estúdios de jogos e gêneros prediletos.
+O objetivo deste projeto é desenvolver uma plataforma capaz de facilitar a busca de grupos ou de integrantes para seus grupo, como também facilitar o seu proprio gerenciamento em sí
 
 
 ## Justificativa
 
-O tema do projeto foi escolhido por ser algo que a maioria do grupo vivência e, por isso, temos a noção do quanto este projeto poderia impactar positivamente a comunidade dos jogadores, de sua forma mais diversa, seja ampliando a quantidade daquels que jogam, ou seja fazendo as pessoas encontrarem um novo jogo favorito, sendo benéfico para todos, desde quem joga até quem produz.
+A busca por projetos ou até mesmo de integrantes interresados e qualificados para o desenvolvimeto de projetos, sempre foi um problema no meio academico. Portanto o tema do projeto escolhido se baseou em uma questão no qual a maioria do grupo vivência e, por isso, acreditamos que este projeto poderia impactar positivamente o meio universitaria, facilitando a busca e o desenvolvimento de projetos de interresses dos alunos das mais diversas universidades.
 
 ## Público-Alvo
 
-Como dito anteriormente, o projeto tem como alvo os _gamers_, público alvo hoje que se torna bem abrangente. Por isso, realizamos uma pesquisa por meio de um formulário para garantir um número maior e distinto de pessoas, e assim entendermos melhor o público-alvo. Formamos então um grupo seleto de personas, como pode se ver abaixo:
+Como dito anteriormente, o projeto tem como alvo pessoal do meio academico em geral, sejam aqueles que buscam projetos para se integrar ou até mesmo aqueles que necessitam encontrar novos integrantes para seus proprios projetos.
+Buscando entendermos melhor o nosso público-alvo, realizou-se uma pesquisa por meio de um formulário para garantir um número maior e distinto de opiniões sobre o tema. A partir desta pesquisa desenvolveou-se personas que representassem nosso publico alvo:
 <br>
-<img src="/docs/assets/images/persona1.png">
-<img src="/docs/assets/images/persona2.png">
-<img src="/docs/assets/images/persona3.png">
 
 
 ## Personas
+<img src="/docs/assets/images/Persona1.jpg">
+<img src="/docs/assets/images/Persona2.jpg">
 
-<img src="/docs/assets/images/Joaozinho.png"> 
-<img src="/docs/assets/images/Mariazinha.png">
-<img src="/docs/assets/images/Marcos.png">
-
-
-**Links Úteis**:
-
-- [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-- [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-- [Rock Content](https://rockcontent.com/blog/personas/)
-- [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 
 ## Histórias de Usuários
-* Como um professor, eu quero poder utilizar essa ferramenta para melhorar minha metodologia de ensino fazendo a relação de jogo-educação.
-* Como um psicólogo, eu quero indicar para meus pacientes jogos casuais para melhorar a saúde mental
-* Como um responsável, quero arranjar uma maneira para me envolver com os meus filhos
-* Como um jogador profissional, eu quero poder otimizar meu acervo de jogos para poder me tornar cada vez melhor
-* Como um streamer, eu quero aumentar a variedade de jogos para fornecer um maior entretenimento e variedade para o meu público
-* Como um estudante, eu quero poder escolher com cuidado um jogo de simulação, para poder melhorar meu raciocínio lógico.
+
+<strong>Mariana, a Estudante Proativa</strong>
+
+<strong>Problema:</strong> Mariana é uma estudante de Engenharia que adora projetos desafiadores e está ansiosa para desenvolver seu portfólio. Ela tem uma ideia incrível para um projeto de pesquisa, mas não conhece ninguém na sua turma com o mesmo interesse e não sabe como encontrar outros estudantes para trabalhar com ela.<br>
+<strong>Objetivo:</strong> Mariana quer encontrar outros estudantes com interesses semelhantes para formar um grupo e desenvolver seu projeto de pesquisa. Ela busca uma plataforma fácil de usar, onde possa publicar sua ideia e encontrar pessoas qualificadas para se juntar ao seu grupo.<br>
+<strong>História:</strong> "Eu estava super animada com a minha ideia de projeto de pesquisa sobre inteligência artificial, mas não conhecia ninguém na minha turma com o mesmo interesse. Passei dias procurando em grupos do Facebook e em fóruns online, mas não encontrava nada. Até que descobri essa plataforma incrível! Pude publicar minha ideia e, em poucos dias, vários estudantes interessados me contactaram. Foi fácil formar um grupo com pessoas talentosas e motivadas. Agora, estamos trabalhando juntos em um projeto incrível, e estou aprendendo muito!"
+
+<strong>João, o Estudante Indeciso</strong>
+
+<strong>Problema:</strong> João é um estudante de Administração que está em seu último ano da faculdade e precisa de um projeto para se formar. Ele não tem uma ideia específica e sente dificuldade em escolher um tema que lhe interesse e que seja desafiador.<br>
+<strong>Objetivo:</strong> João busca uma plataforma que o ajude a encontrar ideias de projetos interessantes, avaliar a viabilidade de cada tema, e identificar grupos já formados com os quais ele possa se juntar.<br>
+<strong>História:</strong> "Estava perdido, sem saber por onde começar meu projeto de conclusão de curso. A ideia de ter que pensar em um tema e encontrar pessoas para trabalhar comigo me deixava ansioso. Aí encontrei essa plataforma e me surpreendi! Pude navegar por diversos projetos, ler as descrições e finalmente, achei um projeto que me interessava e me encaixava. Foi muito mais fácil do que eu imaginava!"
+
+<strong>Rafael, o Líder de Grupo</strong>
+
+<strong>Problema:</strong> Rafael é um estudante de Direito que lidera um grupo de estudos para a disciplina de Processo Penal. Ele precisa de mais membros para o grupo, mas tem dificuldade em encontrar pessoas que se encaixem na dinâmica do grupo e que tenham o mesmo nível de comprometimento.<br>
+<strong>Objetivo:</strong> Rafael quer uma plataforma onde ele possa divulgar as vagas do seu grupo de estudos e encontrar novos membros com perfil adequado, facilitando o gerenciamento do grupo e a comunicação entre os participantes.<br>
+<strong>História:</strong> "Eu estava com dificuldades para encontrar mais pessoas para o meu grupo de estudos. Tínhamos um bom ritmo, mas precisávamos de mais gente. A plataforma foi a solução! Publiquei uma vaga com as informações do nosso grupo e os requisitos para participar. Recebi vários pedidos de entrada e, em poucos dias, conseguimos completar o grupo com pessoas engajadas e dispostas a aprender. A plataforma me ajudou a organizar o grupo e a manter a comunicação fluida entre todos. "
 
 ## Requisitos
 
 Os requisitos de um projeto são classificados em dois grupos:
 
 - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-  * O Sistema requer um cadastro de usuário
-  * O Sistema requer um cadastro para o desenvolvedor de jogos e o upload do seu jogo produzido
-  * O Sistema vai necessitar de uma API das lojas de jogos
-  * O Sistema tem que conter um Quiz que seja variável
-  * O Sistema tem que conter um algoritmo que produza uma resposta baseada em medidas e parâmetros do Quiz
-  * Os usuários devem poder realizar buscas avançadas por jogos, filtrando por gênero, plataforma, faixa etária, preço e outras características relevantes.  
-  * Os usuários podem avaliar os jogos e deixarem comentários, fornecendo feedback útil para outros usuários e contribuindo para a qualidade das recomendações na plataforma.
+  * O Sistema requer um cadastro de usuários/empresas
+  * O Sistema requer um cadastro de projetos/grupos
+  * O Sistema vai necessitar de sistema de busca de projetos
+  * O Sistema tem que conter um meio de integrar novos integrantes aos grupos
+  * O Sistema tem que conter um meio de compartilhamento de Documentos/arquivos
+  * O Sistema tem que conter uma agenda/calendário de entregas e pendências
+  * O Sistema deve conter um meio de integração com Ferramentas de Produtividade(Google Drive, Microsoft Office, Figma,  etc)
+  * O Sistema deve disponibilizar os projetos criados visiveis ao demais usuarios  
 
-Integração com Plataformas de Jogos: Integração com plataformas de distribuição de jogos, como Steam, Epic Games Store, PlayStation Store, Xbox Store, entre outras, para fornecer uma ampla variedade de opções de compra e download diretamente pela plataforma de busca. - Baixa 
 - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
   * O Sistema será Web, então tem que ser acessível e adaptável a qualquer dispositivo
-  * Os Usuários tem que ceder dados para usabilidade
-  * Os Usuários tem que estar dispostos a realizar um quiz
-  * O Sistema será produzido em HTML e CSS
+  * Os Usuários tem que  estar dispostos a ceder dados para usabilidade
   * O Sitema deve informar quais dados serão utilizados
+  * O Sistema será produzido em HTML, CSS e JS
 
 
 ## User Flow
-<img src="/docs/assets/images/userflow.jfif">
+<img src="/docs/assets/images/Figma.png">
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
 ## Wireframes
-<img src="/docs/assets/images/userflow.jfif">
+<img src="/docs/assets/images/Figma.png">
 
 
 ## Gestão de Projetos
 
 <img src="/docs/assets/images/kanban.png">
 
-Nosso grupo baseou a divisão de tarefas pelo metódo Kanban, infelizmente sobrecarregou dois memebros do times, enquanto o resto fez um pouco ou quase nada.
+Nosso grupo baseou a divisão de tarefas pelo metódo Kanban, onde o acompanhamento de entregas bem como o seu desenvolvimento desenvolvimento pode ser acompanhado

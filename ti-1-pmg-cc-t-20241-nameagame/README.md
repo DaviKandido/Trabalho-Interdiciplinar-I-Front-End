@@ -8,12 +8,11 @@ Um projeto que tem como objetivo fornecer comunicação gratuita, segura e efici
 
 ## Alunos integrantes da equipe
 
-* Augusto Stambassi Duarte  
+* [Augusto Stambassi Duarte](https://github.com/Stambassi)
 * [Alexandre Van de Graaf](https://github.com/Fan77asyy)
 * [Davi Cândido de Almeida](https://github.com/DaviKandido)
 * [Gabriel Anderson](https://github.com/gonafritas)
-* João Vitor dos Reis Soares
-* Fabiano Vitor Patrício Eleutério
+
    
 ## Professores responsáveis
 
@@ -21,5 +20,7 @@ Um projeto que tem como objetivo fornecer comunicação gratuita, segura e efici
 * Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+* Primeiramente, baixar a pasta código desse github, após isso, deve configurar a máquina para utilizar o JSON server.
+* Para tal, entre no link do [replit](https://replit.com/join/nvonymqrbj-davicandidopucm), depois faça um Fork do projeto, clique em new tab e pegue a url gerada
+* Depois, substituia em todas as instâncias no javascript as constantes dataURL ou URL pelo link copiado
+* Por fim, aproveite o serviço e crie muitos projetos universitários!!!!
